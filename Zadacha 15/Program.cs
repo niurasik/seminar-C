@@ -6,3 +6,5 @@ if (a > 5){
 }
 else
     System.Console.WriteLine("нет");
+
+    
